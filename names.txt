@@ -1,3 +1,0 @@
-role,NetID,LastName,FirstName
-boss,bhaertle,Haertle,Bryce
-employee,jstump,Stump,Jordan
